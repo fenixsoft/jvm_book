@@ -8,5 +8,5 @@
   <br>更正：由于这个信箱由于一直只收未发，刚印刷后收到Google的通知此账号已自动作废。而且根据Google规定，作废后无法注册同名邮箱。下次重印将修改为本工程地址。
 - **Page 9**：支持HTTP 2客户【单】API等91个JEP
   <br>更正：支持HTTP 2客户【端】API等91个JEP
-- **Page 368**: 【ArrayList&lt;int&gt;】与ArrayList<String>其实是同一个类型
-  <br>更正：【ArrayList&lt;Integer&gt;】与ArrayList<String>其实是同一个类型
+- **Page 368**: 【ArrayList&lt;int&gt;】与ArrayList&lt;String&lt;其实是同一个类型
+  <br>更正：【ArrayList&lt;Integer&lt;】与ArrayList&lt;String&lt;其实是同一个类型
