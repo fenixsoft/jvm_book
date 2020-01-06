@@ -5,7 +5,10 @@
 
 #### 勘误列表：
 
-以下勘误内容已在第1次重印版（2019-12-27日）修正
+- **Page 27**：到了JDK 10，HotSpot又重构了Java虚拟机的垃圾收集器接口 （Java Virtual Machine 【Compiler】 Interface）
+  <br>更正：到了JDK 10，HotSpot又重构了Java虚拟机的垃圾收集器接口 （Java Virtual Machine 【Garbage】 Interface）
+  
+#### 以下勘误内容已在第1次重印版（2019-12-27日）修正
 ------
 - **前言部分**：读者反馈信箱：understandjvm@gmail.com 
   <br>更正：由于这个信箱由于一直只收未发，刚印刷后收到Google的通知此账号已自动作废。而且根据Google规定，作废后无法注册同名邮箱。下次重印将修改为本工程地址:https://github.com/fenixsoft/jvm_book。
