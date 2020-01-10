@@ -7,6 +7,18 @@
 
 - **Page 27**：到了JDK 10，HotSpot又重构了Java虚拟机的垃圾收集器接口 （Java Virtual Machine 【Compiler】 Interface）
   <br>更正：到了JDK 10，HotSpot又重构了Java虚拟机的垃圾收集器接口 （Java Virtual Machine 【Garbage】 Interface）
+- **Page 238**：13: iload_1 后的注释应该是字节码第14行的，即
+  >   13:  iload_1   // 保存x到returnValue中，此时x=2  
+  >   14:  istore  4  
+
+  改为：
+  >   13:  iload_1    
+  >   14:  istore  4  // 保存x到returnValue中，此时x=2
+- **Page 259**：13 astore_3 后注释Taget是笔误，应为Target
+- **Page 265/266**：在266页正文中出现两次注释一，其中第一个注释是265页才对，应该是排版问题，请编辑再版时注意。
+- **Page 259**：产生这种差别产生的根本原因是Java语言在编译期间【却】已将println(String)方法完整的符号引用
+ <br>更正：产生这种差别产生的根本原因是Java语言在编译期间【就】已将println(String)方法完整的符号引用
+- **Page 312**：代码实例中出现3初【gay】，譬如Father gay = new Son(); 均应为【guy】
   
 #### 以下勘误内容已在第1次重印版（2019-12-27日）修正
 ------
