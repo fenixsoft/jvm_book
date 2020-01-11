@@ -16,6 +16,9 @@
   >   14:  istore  4  // 保存x到returnValue中，此时x=2
 - **Page 259**：13 astore_3 后注释Taget是笔误，应为Target
 - **Page 265/266**：在266页正文中出现两次注释一，其中第一个注释是265页才对，应该是排版问题，请编辑再版时注意。
+- **Page 290**：用在IntelliJ 【IDE】、Eclipse这些IDE上做HotSwap……
+ <br>更正：
+ 用在IntelliJ 【IDEA】、Eclipse这些IDE上做HotSwap……
 - **Page 312**：代码实例中出现三处【gay】，譬如Father gay = new Son(); 均应为【guy】，这个不影响代码运行，只是不太雅观。
 - **Page 317**：产生这种差别产生的根本原因是Java语言在编译期间【却】已将println(String)方法完整的符号引用。
  <br>更正：产生这种差别产生的根本原因是Java语言在编译期间【就】已将println(String)方法完整的符号引用。
