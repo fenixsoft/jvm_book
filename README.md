@@ -7,6 +7,8 @@
 
 - **Page 27**：到了JDK 10，HotSpot又重构了Java虚拟机的垃圾收集器接口 （Java Virtual Machine 【Compiler】 Interface）
   <br>更正：到了JDK 10，HotSpot又重构了Java虚拟机的垃圾收集器接口 （Java Virtual Machine 【Garbage】 Interface）
+- **Page 37**：譬如【Eclipst】 CDT或者NetBeans来进行的话
+  <br>更正：譬如【Eclipse】 CDT或者NetBeans来进行的话
 - **Page 238**：13: iload_1 后的注释应该是字节码第14行的，即
   >   13:  iload_1   // 保存x到returnValue中，此时x=2  
   >   14:  istore  4  
