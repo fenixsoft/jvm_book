@@ -21,7 +21,7 @@
   >   14:  istore  4  // 保存x到returnValue中，此时x=2
 - **Page 254**：算术指令用于对【两个操作数栈上的值】进行某种特定运算
  <br>对语序修改以避免歧义：算术指令用于对【操作数栈上的两个值】进行某种特定运算
-- **Page 259**：13 astore_3 后注释Taget是笔误，应为Target
+- **Page 259**：13 astore_3 后注释【Taget】为笔误，应为【Target】
 - **Page 265/266**：在266页正文中出现两次注释一，其中第一个注释是265页才对，应该是排版问题，请编辑再版时注意。
 - **Page 290**：用在IntelliJ 【IDE】、Eclipse这些IDE上做HotSwap……
  <br>更正：
