@@ -5,6 +5,8 @@
 
 #### 勘误列表：
 
+#### 以下勘误内容已在第2次重印版（2020-2-20日）修正
+------
 - **Page 27**：到了JDK 10，HotSpot又重构了Java虚拟机的垃圾收集器接口 （Java Virtual Machine 【Compiler】 Interface）
   <br>更正：到了JDK 10，HotSpot又重构了Java虚拟机的垃圾收集器接口 （Java Virtual Machine 【Garbage】 Interface）
 - **Page 37**：譬如【Eclipst】 CDT或者NetBeans来进行的话
