@@ -10,6 +10,9 @@
 - **Page 80**：HotSpot虚拟机里面关注吞吐量的Parallel 【Scavenge】收集器是基于标记-整理算法的。
 <br>更正：HotSpot虚拟机里面关注吞吐量的Parallel 【Old】收集器是基于标记-整理算法的。
 
+- **Page 106**：在回收时通过这张表格就可以得出哪些Region之间产生了【跨代引用】。
+<br>更正：在回收时通过这张表格就可以得出哪些Region之间产生了【跨Region的引用】。
+
 - **Page 134**：如果在Survivor空间中【相同年龄】所有对象大小的总和大于Survivor空间的一半
 <br>更正：如果在Survivor空间中【低或等于某个年龄的】所有对象大小的总和大于Survivor空间的一半
 
