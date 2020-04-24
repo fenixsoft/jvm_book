@@ -7,6 +7,8 @@
 - **Page 30**：JDK 7则【还完全】处于研发状态的半成品。
 <br>更正：JDK 7则【完全是】处于研发状态的半成品。
 
+**Page 38**：由于JDK12已EOL，RedHat的GitHub上目前只维护8、11两个LTS和13这个正在半年支持期内的JDK版本，JDK12的Repo已经关闭（但从Git的History中挖掘出来是很容易的），为了便于读者获取 CMakeLists.txt，我上传了一份到本仓库中。此文件版权归原作者所有。（编辑在更新勘误时可跳过此条）
+
 - **Page 80**：HotSpot虚拟机里面关注吞吐量的Parallel 【Scavenge】收集器是基于标记-整理算法的。
 <br>更正：HotSpot虚拟机里面关注吞吐量的Parallel 【Old】收集器是基于标记-整理算法的。
 
