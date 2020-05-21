@@ -36,7 +36,7 @@
 - **Page 134**：满足【同年】对象达到Survivor空间的一半规则
 <br>更正：满足【低于或等于某年龄的】对象达到Survivor空间的一半规则
 
-- **Page 160-161**：代码中类名“SynAddRunalbe”中英文“Runalbe”为拼写错误，应为“SynAddRunnable”，代码中一共有4处，图片中有1处。
+- **Page 162-163**：代码中类名“SynAddRunalbe”中英文“Runalbe”为拼写错误，应为“SynAddRunnable”，代码中一共有4处，图片中有1处。
 
 - **Page 265**：创建动作由字节码指令【newarray】触发
 <br>更正：创建动作由字节码指令【anewarray】触发
