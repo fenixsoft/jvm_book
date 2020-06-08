@@ -42,6 +42,9 @@
 
 - **Page 162-163**：代码中类名“SynAddRunalbe”中英文“Runalbe”为拼写错误，应为“SynAddRunnable”，代码中一共有4处，图片中有1处。
 
+- **Page 239**：Exceptions属性的作用是列举出方法中可能抛出的受查异常（Checked 【Excepitons】）
+<br>更正：Exceptions属性的作用是列举出方法中可能抛出的受查异常（Checked 【Exceptions】）
+
 - **Page 265**：创建动作由字节码指令【newarray】触发
 <br>更正：创建动作由字节码指令【anewarray】触发
 
