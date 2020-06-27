@@ -8,6 +8,9 @@
 - **Page 259**：3 monitorenter // 以【栈定】元素（即f）作为锁，开始同步
 <br>更正：3 monitorenter // 以【栈顶】元素（即f）作为锁，开始同步
 
+- **Page 77**：发生垃圾【搜集】时，将Eden和Survivor中仍然存活的对象一次性过拷贝到另外一块Survivor空间上
+<br>更正：发生垃圾【收集】时，将Eden和Survivor中仍然存活的对象一次性过拷贝到另外一块Survivor空间上
+
 - **Page 128**：JDK 9之前虚拟机运行在Server模式下的默认值，打开此开关后，使用【Parallel Scavenge + Serial Old（PS MarkSweep）的】收集器组合进行内存回收
 <br>更正：3 JDK 9之前虚拟机运行在Server模式下的默认值，打开此开关后，使用【Parallel】收集器组合进行内存回收
 
