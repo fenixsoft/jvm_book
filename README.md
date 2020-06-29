@@ -14,6 +14,9 @@
 - **Page 128**：JDK 9之前虚拟机运行在Server模式下的默认值，打开此开关后，使用【Parallel Scavenge + Serial Old（PS MarkSweep）的】收集器组合进行内存回收
 <br>更正：3 JDK 9之前虚拟机运行在Server模式下的默认值，打开此开关后，使用【Parallel】收集器组合进行内存回收
 
+- **Page 265**：上述代码运行之后，只会输出“SuperClass init!”
+<br>更正：上述代码运行之后，【除value的值外，】只会输出“SuperClass init!”
+
 #### 以下勘误内容已在第4次重印版（2020-6-10日）修正
 ------
 - **Page 25**：即不能动态加载其他【编译器】不可知的代码和类库
