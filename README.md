@@ -1,7 +1,7 @@
 # 《深入理解Java虚拟机（第3版）》
 
 > **广告**：<br/>
-> 预告下我的下一本书《凤凰计划》：[https://icyfenix.cn](https://icyfenix.cn)
+> 预告下我的下一本书《凤凰计划》：[https://icyfenix.cn](https://icyfenix.cn)，如对您有用，请不吝给个Star :)
 
 <br/>
 
