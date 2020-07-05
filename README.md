@@ -11,7 +11,7 @@
 
 ### 勘误列表：
 
-- **Page 77**：发生垃圾【搜集】时，将Eden和Survivor中仍然存活的对象一次性过拷贝到另外一块Survivor空间上
+- **Page 79**：发生垃圾【搜集】时，将Eden和Survivor中仍然存活的对象一次性过拷贝到另外一块Survivor空间上
 <br>更正：发生垃圾【收集】时，将Eden和Survivor中仍然存活的对象一次性过拷贝到另外一块Survivor空间上
 
 - **Page 128**：JDK 9之前虚拟机运行在Server模式下的默认值，打开此开关后，使用【Parallel Scavenge + Serial Old（PS MarkSweep）的】收集器组合进行内存回收
