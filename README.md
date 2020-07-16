@@ -19,6 +19,9 @@
 - **Page 79**：发生垃圾【搜集】时，将Eden和Survivor中仍然存活的对象一次性过拷贝到另外一块Survivor空间上
 <br>更正：发生垃圾【收集】时，将Eden和Survivor中仍然存活的对象一次性过拷贝到另外一块Survivor空间上
 
+- **Page 94**：-XX:GCTimeRatio参数的值则应当是一个大于0小于100的整数，也就是垃圾收集时间占总时间的比率，【相当于是吞吐量的倒数】。
+<br>更正：-XX:GCTimeRatio参数的值则应当是一个大于0小于100的整数，也就是垃圾收集时间占总时间的比率，【这个参数设定为N的话，表示用户代码执行时间与总执行时间之比为N：（N+1）】
+
 - **Page 128**：JDK 9之前虚拟机运行在Server模式下的默认值，打开此开关后，使用【Parallel Scavenge + Serial Old（PS MarkSweep）的】收集器组合进行内存回收
 <br>更正：3 JDK 9之前虚拟机运行在Server模式下的默认值，打开此开关后，使用【Parallel】收集器组合进行内存回收
 
