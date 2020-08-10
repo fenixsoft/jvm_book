@@ -1,7 +1,7 @@
 # 《深入理解Java虚拟机（第3版）》
 
 > **广告**：<br/>
-> 预告下我的下一本书《凤凰计划》：[https://icyfenix.cn](https://icyfenix.cn)，这是一本完全免费的开源文档，如对您有用，请不吝给个Star :)
+> 预告下我的下一本书《凤凰项目：现代软件架构探索》：[https://icyfenix.cn](https://icyfenix.cn)，这是一本完全免费的开源文档，如对您有用，望不吝给个Star 👍
 
 <br/>
 
