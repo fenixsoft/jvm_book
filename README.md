@@ -1,7 +1,7 @@
 # 《深入理解Java虚拟机（第3版）》
 
 > **广告**：<br/>
-> 我正在撰写的《凤凰项目：现代软件架构探索》：[https://icyfenix.cn](https://icyfenix.cn)
+> 我正在撰写的《[凤凰项目：现代软件架构探索](https://icyfenix.cn)》：[https://icyfenix.cn](https://icyfenix.cn)
 >
 > 这是一部以软件设计、架构工作中“要考虑哪些因素、需解决哪些问题、有哪些行业标准的解决方案”为主题的、完全免费的开源文档，如对您有用，望不吝给个Star 👍
 
