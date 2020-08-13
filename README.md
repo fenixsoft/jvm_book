@@ -45,6 +45,9 @@
 - **Page 265**：上述代码运行之后，只会输出“SuperClass init!”
 <br>更正：上述代码运行之后，【除value的值外，】只会输出“SuperClass init!”
 
+- **Page 280**：成为了Java技术体系中一块重要的基石，可谓是【失之桑榆，收之东隅】。
+<br>更正：成为了Java技术体系中一块重要的基石，可谓是【失之东隅，收之桑榆】。
+
 - **Page 432**：在Outline视图中找到创建理想图的方法是【greateGraph()】
 <br>更正：在Outline视图中找到创建理想图的方法是【createGraph()】（这个笔误在432页一共有3处）
 
