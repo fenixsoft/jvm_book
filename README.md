@@ -3,7 +3,7 @@
 > **广告**：<br/>
 > 我正在撰写的《[凤凰项目：现代软件架构探索](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
 >
-> 这是一部以软件设计、架构工作中“要考虑哪些因素、需解决哪些问题、有哪些行业标准的解决方案”为主题的、完全免费的开源文档，如对您有用，望不吝给个Star 👍
+> 这是一部以“架构师应该掌握哪些架构知识”为叙事主线的、完全免费的开源文档，如对您有用，望不吝给个Star 
 
 <br/>
 
