@@ -13,6 +13,9 @@
 
 ### 勘误列表：
 
+- **Page 385**：代码清单10-18 第13行需修改方法名称，以输出结果：
+<br>`protected void BADLY_NAMED_CODE()` { 修改为 `protected void Test() {`
+
 #### 以下勘误内容已在第5次重印版（2020-9-11日）修正
 ------
 - **Page 51**：以下代码清单2-2为HotSpot虚拟机代表Mark Word中的代码（【markOop.cpp】）注释片段
