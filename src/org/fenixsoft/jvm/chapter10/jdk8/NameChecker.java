@@ -3,8 +3,6 @@ package org.fenixsoft.jvm.chapter10.jdk8;
 import javax.annotation.processing.Messager;
 import javax.annotation.processing.ProcessingEnvironment;
 import javax.lang.model.element.*;
-import javax.lang.model.util.ElementScanner6;
-import javax.lang.model.util.ElementScanner7;
 import javax.lang.model.util.ElementScanner8;
 import java.util.EnumSet;
 
@@ -21,8 +19,8 @@ public class NameChecker {
 
     NameCheckScanner nameCheckScanner = new NameCheckScanner();
 
-    NameChecker(ProcessingEnvironment processsingEnv) {
-        this.messager = processsingEnv.getMessager();
+    NameChecker(ProcessingEnvironment processingEnv) {
+        this.messager = processingEnv.getMessager();
     }
 
     /**
@@ -43,7 +41,7 @@ public class NameChecker {
     }
 
     /**
-     * 名称检查器实现类，继承了JDK 6中新提供的ElementScanner6<br>
+     * 名称检查器实现类，继承了JDK 8中新提供的ElementScanner8<br>
      * 将会以Visitor模式访问抽象语法树中的元素
      */
     private class NameCheckScanner extends ElementScanner8<Void, Void> {
