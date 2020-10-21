@@ -20,8 +20,8 @@ public class NameChecker {
 
     NameCheckScanner nameCheckScanner = new NameCheckScanner();
 
-    NameChecker(ProcessingEnvironment processsingEnv) {
-        this.messager = processsingEnv.getMessager();
+    NameChecker(ProcessingEnvironment processingEnv) {
+        this.messager = processingEnv.getMessager();
     }
 
     /**
