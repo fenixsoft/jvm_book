@@ -25,6 +25,9 @@
 - **Page 243**：表6-26，第6行：ACC_INTERFACE 【0x0020】
 <br>更正：ACC_INTERFACE 【0x0200】
 
+- **Page 256**：如果v在目标类型T（int或long）的表示范围之【类】
+<br>更正：如果v在目标类型T（int或long）的表示范围之【内】
+
 - **Page 385**：代码清单10-18 第13行需修改方法名称，以符合输出结果：
 <br>`protected void BADLY_NAMED_CODE()` { 修改为 `protected void Test() {`
 
