@@ -1,7 +1,7 @@
 # 《深入理解Java虚拟机（第3版）》
 
 > **广告**：<br/>
-> 我正在撰写的《[凤凰项目：现代软件架构探索](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
+> 我正在撰写的《[现代软件架构探索:The Fenix Project](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
 >
 > 这是一部以“架构师应该掌握哪些架构知识”为叙事主线的、完全免费的开源文档，如对您有用，望不吝给个Star 
 
@@ -21,6 +21,9 @@
 
 - **Page 94**：-XX:GCTimeRatio参数的值则应当是一个大于0小于100的整数，也就是垃圾收集时间占总时间的比率，这个参数设定为N的话，表示用户代码执行时间与总执行时间之比为N：N+1。譬如把此参数设置为19，那允许的最大垃圾收集时间就占总时间的5%（即1 /(1+19)），默认值为99，就是允许最大1%（即1 /(1+99)）的垃圾收集时间。
 <br>整一段修正为：-XX:GCTimeRatio参数的值应为设置为一个正整数，表示用户期望虚拟机消耗在GC上的时间不超过程序运行时间的1/(1+N）。默认值为99，含义是尽可能保证应用程序执行的时间为收集器执行时间的99倍，也即是收集器的时间消耗不超过总运行时间的1%。
+
+- **Page 243**：表6-26，第五行：ACC_INTERFACE 【0x0020】
+<br>更正：ACC_INTERFACE 【0x0200】
 
 - **Page 385**：代码清单10-18 第13行需修改方法名称，以符合输出结果：
 <br>`protected void BADLY_NAMED_CODE()` { 修改为 `protected void Test() {`
