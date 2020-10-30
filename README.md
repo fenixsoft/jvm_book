@@ -34,6 +34,9 @@
 - **Page 317**：本例中为一项【CONSTANT_InterfaceMethodref_info】常量
 <br>更正：本例中为一项【CONSTANT_Methodref_info】常量
 
+- **Page 331**：图8-6 执行偏移地址为【1】的指令的情况
+<br>更正：图8-6 执行偏移地址为【2】的指令的情况
+
 - **Page 385**：代码清单10-18 第13行需修改方法名称，以符合输出结果：
 <br>`protected void BADLY_NAMED_CODE()` { 修改为 `protected void Test() {`
 
