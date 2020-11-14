@@ -19,6 +19,9 @@
 - **Page 479**：如适应性自旋（Adaptive Spinning）、锁削除（Lock Elimination）、【锁膨胀】（Lock Coarsening）、轻量级锁（Lightweight Locking）、偏向锁（Biased Locking）等等
 <br>更正：如适应性自旋（Adaptive Spinning）、锁削除（Lock Elimination）、【锁粗化】（Lock Coarsening）、轻量级锁（Lightweight Locking）、偏向锁（Biased Locking）等等
 
+- **Page 483**：【同时】使用CAS操作把获取到这个锁的线程的ID记录在对象的Mark Word之中
+<br>更正：【并】使用CAS操作把获取到这个锁的线程的ID记录在对象的Mark Word之中
+
 #### 以下勘误内容已在第6次重印版（2020-11-5日）修正
 ------
 
