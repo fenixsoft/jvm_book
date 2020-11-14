@@ -16,6 +16,9 @@
 - **Page 448**：这种操作相当于对缓存中的变量做了一次前面介绍Java内存【模式】中所说的“store和write”操作
 <br>更正：这种操作相当于对缓存中的变量做了一次前面介绍Java内存【模型】中所说的“store和write”操作
 
+- **Page 479**：如适应性自旋（Adaptive Spinning）、锁削除（Lock Elimination）、【锁膨胀】（Lock Coarsening）、轻量级锁（Lightweight Locking）、偏向锁（Biased Locking）等等
+<br>更正：如适应性自旋（Adaptive Spinning）、锁削除（Lock Elimination）、【锁粗化】（Lock Coarsening）、轻量级锁（Lightweight Locking）、偏向锁（Biased Locking）等等
+
 #### 以下勘误内容已在第6次重印版（2020-11-5日）修正
 ------
 
