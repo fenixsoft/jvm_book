@@ -3,7 +3,7 @@
 > **广告**：<br/>
 > 我正在撰写的《[现代软件架构探索:The Fenix Project](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
 >
-> 这是一部以“架构师应该掌握哪些架构知识”为叙事主线的、完全免费的开源文档，如对您有用，望不吝给个Star 
+> 这是一部以“讨论如何构筑一套可靠的分布式大型软件系统”为主题的、完全免费的开源文档，如对您有用，望不吝给个Star 
 
 <br/>
 
