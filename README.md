@@ -16,6 +16,11 @@
 - **Page 99**：作为CMS收集器的替代者和继承人，设计者们希望做出一款能够建立起“【停顿时间模型】”（Pause Prediction Model）的收集器，【停顿时间模型】的意思是能够支持指定在一个长度为M毫秒的时间片段内
 <br>全书术语统一为：作为CMS收集器的替代者和继承人，设计者们希望做出一款能够建立起“【停顿预测模型】”（Pause Prediction Model）的收集器，【停顿预测模型】的意思是能够支持指定在一个长度为M毫秒的时间片段内
 
+- **Page 85 & 87**：两处代码部分：<br>
+`CARD_TABLE [this address >> 9] = 0;`和`if (CARD_TABLE [this address >> 9] != 0) CARD_TABLE [this address >> 9] = 0;`
+<br>由于书中文字是以“1标志变脏，0标志未变脏”来描述的，代码中应该统一起来，因此修改为：
+<br>`CARD_TABLE [this address >> 9] = 1;`和`if (CARD_TABLE [this address >> 9] != 1) CARD_TABLE [this address >> 9] = 1;`
+
 - **Page 108**：我们再来聊一下Shenandoah用以支持【并行整理】的核心概念
 <br>更正：我们再来聊一下Shenandoah用以支持【并发整理】的核心概念
 
