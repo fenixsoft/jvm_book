@@ -1,7 +1,7 @@
 # 《深入理解Java虚拟机（第3版）》
 
 > **广告**：<br/>
-> 我正在撰写的《[现代软件架构探索:The Fenix Project](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
+> 《[现代软件架构探索:The Fenix Project](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
 >
 > 这是一部以“讨论如何构筑一套可靠的分布式大型软件系统”为主题的免费开源文档，如对您有用，望不吝给个Star 
 > 
