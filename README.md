@@ -3,8 +3,13 @@
 > **广告**：<br/>
 > 我正在撰写的《[现代软件架构探索:The Fenix Project](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
 >
-> 这是一部以“讨论如何构筑一套可靠的分布式大型软件系统”为主题的、完全免费的开源文档，如对您有用，望不吝给个Star 
-
+> 这是一部以“讨论如何构筑一套可靠的分布式大型软件系统”为主题的免费开源文档，如对您有用，望不吝给个Star 
+> 
+> **不是广告**：<br/>
+> 快速环境构建、编译、裁剪、调试[OpenJDK的懒人包](https://icyfenix.cn/tricks/2021/openjdk-for-dummies/)：[https://github.com/fenixsoft/openjdk-for-dummies](https://github.com/fenixsoft/openjdk-for-dummies)
+> 
+> JetBrains的远程方案，不用纠结如何搭建IDE环境调试HotSpot源码了，如对您有用，望不吝给个Star
+>
 <br/>
 
 　　本工程为《深入理解Java虚拟机（第3版）》书中的样例代码，以方便读者自行测试。部分代码需要在特定的虚拟机版本、参数下运行，在代码前均已“VM Args”的注释进行标注。
