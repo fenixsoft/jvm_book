@@ -1,9 +1,9 @@
 # 《深入理解Java虚拟机（第3版）》
 
 > **广告**：<br/>
-> 《[现代软件架构探索:The Fenix Project](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
+> 《[凤凰架构：构建可靠的大型分布式系统](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
 >
-> 这是一部以“讨论如何构筑一套可靠的分布式大型软件系统”为主题的免费开源文档，如对您有用，望不吝给个Star 
+> 我的一本新书，也是一部以“讨论如何构筑一套可靠的分布式大型软件系统”为主题的免费开源文档，如对您有用，望不吝给个Star 
 > 
 > **不是广告**：<br/>
 > 快速环境构建、编译、裁剪、调试[OpenJDK的懒人包](https://icyfenix.cn/tricks/2021/openjdk-for-dummies/)：[https://github.com/fenixsoft/openjdk-for-dummies](https://github.com/fenixsoft/openjdk-for-dummies)
