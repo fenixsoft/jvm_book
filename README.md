@@ -4,11 +4,6 @@
 > 《[凤凰架构：构建可靠的大型分布式系统](https://icyfenix.cn)》：[https://github.com/fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)
 >
 > 我的一本新书，也是一部以“讨论如何构筑一套可靠的分布式大型软件系统”为主题的免费开源文档，如对您有用，望不吝给个Star 
-> 
-> **不是广告**：<br/>
-> 快速环境构建、编译、裁剪、调试[OpenJDK的懒人包](https://icyfenix.cn/tricks/2021/openjdk-for-dummies/)：[https://github.com/fenixsoft/openjdk-for-dummies](https://github.com/fenixsoft/openjdk-for-dummies)
-> 
-> JetBrains的远程方案，不用纠结如何搭建IDE环境调试HotSpot源码了，如对您有用，望不吝给个Star
 >
 <br/>
 
