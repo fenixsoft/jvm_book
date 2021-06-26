@@ -16,6 +16,9 @@
 - **目录XIV，Page164** 4.3.3 VisualVM：多合 - 故障处理工具中”的【多合 - 】应该是【多合一】
 <br/>这个在原稿上是多合一，但印刷后确实怎么看都像是“多合 - ”，请编辑看看。
 
+- **Page 34**：其中lib的可选值包括有：【boot-jd】、freetype、cups、x、alsa、libffi、jtreg、libjpeg、giflib、libpng、lcms、zlib
+<br>更正：其中lib的可选值包括有：【boot-jdk】、freetype、cups、x、alsa、libffi、jtreg、libjpeg、giflib、libpng、lcms、zlib
+
 - **Page 38**：图1-11 在【NetBeans】中创建HotSpot项目（2）
 <br>更正：图1-11 在【CLion】中创建HotSpot项目（2）
 
