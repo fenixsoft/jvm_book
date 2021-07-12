@@ -46,6 +46,12 @@
       4    10      13   any
      13    16      13   any
    ```
+- **Page 282**：代码清单7-9所示为【java.lang.ClassLoader.getClassLoader()】方法的代码片段
+<br>更正：代码清单7-9所示为【java.lang.Class.getClassLoader()】方法的代码片段
+
+- **Page 282**：代码清单7-9 【ClassLoader.getClassLoader()】方法的代码片段
+<br>更正：代码清单7-9 【Class.getClassLoader()】方法的代码片段
+
 - **Page 378**：我们就只有使用【JSR-296】中定义的插入式注解处理器API来对Java编译子系统的行为施加影响
 <br>更正：我们就只有使用【JSR-269】中定义的插入式注解处理器API来对Java编译子系统的行为施加影响
 
