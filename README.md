@@ -15,6 +15,8 @@
 
 - **Page 223**：表6-6的描述列中，有三处【CONSTANT_NameAndType】，均应为：【CONSTANT_NameAndType_info】
 
+- **Page 295**：图8-1中，【操作栈】应为【操作数栈】，此格的英文【Oper and Stack】应为【Operand Stack】（Operand是一个完整单词）
+
 #### 以下勘误内容已在第9次重印版（2021-9-23日）修正（第8次重影因时间关系未修正任何勘误）
 ------
 
